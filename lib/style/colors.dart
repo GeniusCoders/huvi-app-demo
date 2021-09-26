@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
 
-const Color purple = Color(0xFF4a3495);
+const Color purple = Color(0xFF283593);
 //283593
